@@ -1,0 +1,1 @@
+python strMerge.py %1

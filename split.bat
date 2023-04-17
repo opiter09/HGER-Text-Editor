@@ -1,0 +1,1 @@
+python strSplit.py %1
